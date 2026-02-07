@@ -1,4 +1,4 @@
-# 👋 Hi, I'm GabryCoso
+# 👋 Hi, I'm gabrycoso
 
 ## Who I am
 
@@ -25,6 +25,7 @@ Most projects are iterative and experimental, with a strong focus on learning by
 * Systems programming (C/C++, low-level concepts)
 * Web development (frontend & backend)
 * Desktop & mobile app development
+* Bot development and automation (service bots, integrations, task automation)
 * Linux-based environments
 * AI tooling and automation
 
