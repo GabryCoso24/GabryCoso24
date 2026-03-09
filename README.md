@@ -44,8 +44,8 @@ Tooling varies by project; I prioritize the right tool over fixed stacks.
 
 ## How to reach me
 
-* GitHub: explore my repositories and open an issue or discussion
-* Collaboration: feel free to reach out directly if a project aligns
+* email: gabrycoso24@gmail.com
+* instagram: gabrycoso
 
 ---
 
