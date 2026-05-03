@@ -53,12 +53,6 @@ Focused on building real products and continuously improving through hands-on de
 
 ---
 
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gabrycoso24&theme=highcontrast&hide_border=true&card_width=650&background=EB545400" alt="GitHub Streak" /></a>
-</p>
-
----
-
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
